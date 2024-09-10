@@ -1,0 +1,15 @@
+b : 2
+clip : 10
+dmax : 64
+epoch : 50
+exp : 
+gpu : [0]
+lam : 0.001
+lr : 0.01
+n_fft : 512
+out_delay : 0
+path : ../../test_datas/
+scale_grad : 0.8
+seed : None
+tau_grad : 0.1
+threshold : 0.1
